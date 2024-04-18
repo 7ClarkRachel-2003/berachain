@@ -1,0 +1,7 @@
+{
+    "name": "Berachain",
+    "website": "https://www.berachain.com",
+    "description": "An EVM-equivalent L1 built on the Cosmos SDK and powered by Proof of Liquidity",
+    "logo": "https://raw.githubusercontent.com/7ClarkRachel-2003/berachain/main/bera.png",
+    "twitter": "https://twitter.com/berachain"
+  }
